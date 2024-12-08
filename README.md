@@ -1,4 +1,4 @@
-## ◇────── INTERNET-DOCTORS VPS MANAGER ───────◇
+## ◇────── UPLINKING VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
@@ -11,7 +11,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MAPTECHGH/DOCTORS-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/MAPTECHGH/UPLINKING-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
 
@@ -21,6 +21,6 @@ ___Follow Us!___
 
  <p>    
 <div class="div2">
- <span><a href="https://t.me/MAPTECH_vps_manager"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
+ <span><a href="https://t.me/MAPTECH_vpn_hub"><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="50"height="50"/></a></span>
  </div>
  </p>
