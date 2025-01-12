@@ -369,9 +369,7 @@ echo -e ""
      # Abort installation and install UDP request
     clear
     echo -e "\033[1;36m◇ Abort installation and install UDP hysteria\033[0m"
-    wget https://github.com/MAPTECHGH-DEV/AGN-UDP/raw/main/install_maptechudp.sh && 
-    chmod +x install_maptechudp.sh; && 
-    ./install_maptechudp.sh
+    wget https://github.com/MAPTECHGH-DEV/AGN-UDP/raw/main/install_maptechudp.sh && chmod +x install_maptechudp.sh && ./install_maptechudp.sh
     ;;
   3) 
     # Install UDP custom
