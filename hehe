@@ -382,4 +382,3 @@ echo -e ""
     echo -e "\033[1;31mInvalid choice. Please enter either '1', '2', or '3'.\033[0m"
     ;;
 esac
-
