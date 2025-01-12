@@ -7,13 +7,13 @@ display_menu() {
     echo "  UPLINKING VPS SCRIPTS, please select an option:"
     echo "  ┌────────────────────────────────────────────────────────────────────┐"
     echo "  │ 1. SSH installation                                                 │"
-    echo "  │ 2. UDP-request installation                                         │"
+    echo "  │ 2. UDP-Hysteria installation                                        │"
     echo "  │ 3. UDP-custom installation                                          │"
     echo "  └────────────────────────────────────────────────────────────────────┘"
    echo "                     ----------Created By----------                     "
    echo "            ┌───────────────────────────────────────────────┐           "
    echo "            │                  MAPTECH-GH                    │          "
-   echo "            │                @maptechghbot                   │          "
+   echo "            │                t.me/maptechgh                  │          "
    echo "            └───────────────────────────────────────────────┘           "
     printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
     echo -e "\033[0m"
@@ -366,12 +366,9 @@ echo -e "\033[1;33m◇ MORE INFORMATION \033[1;31m(\033[1;36m◇ TELEGRAM\033[1;
 echo -e ""
     ;;
   2) 
-    # Abort installation and install UDP request
+    # Abort installation and install UDP Hysteria
     clear
-    echo -e "\033[1;36m◇ Abort installation and install UDP request\033[0m"
-    wget https://raw.githubusercontent.com/MAPTECHGH/SocksIP-udpServer/main/UDPserver.sh && 
-    chmod +x UDPserver.sh && 
-    ./UDPserver.sh
+    echo -e "wget https://github.com/MAPTECHGH-DEV/AGN-UDP/raw/main/install_maptechudp.sh && chmod +x install_maptechudp.sh && ./install_maptechudp.sh
     ;;
   3) 
     # Install UDP custom
